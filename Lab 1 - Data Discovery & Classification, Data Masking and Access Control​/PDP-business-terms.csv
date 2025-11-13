@@ -1,0 +1,7 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards,Related Terms,Business Start,Business End,Part of Terms,Type of Terms,Abbreviations,Data Classes,Synonyms,Secondary Categories
+First Name,glossary_term,Personal Data Protection,First Name of an individual.,PDP,Personal Data Protection >> Personal Data,,,,,,,,First Name,,
+Last Name,glossary_term,Personal Data Protection,Last Name of an individual.,PDP,Personal Data Protection >> Personal Data,,,,,,,,Last Name,,
+Gender,glossary_term,Personal Data Protection,Information on an individualÕs sex or gender identity.,PDP,Personal Data Protection >> Personal Data,,,,,,,,Gender,,
+Citizenship,glossary_term,Personal Data Protection,Information on the country of an individual nationality or legal membership.,PDP,Personal Data Protection >> Personal Data,,,,,,,,Ethnicity,,
+Religion,glossary_term,Personal Data Protection,Information on an individual religious beliefs or affiliation.,PDP,Personal Data Protection >> Personal Data,,,,,,,,Religion,,
+Marital status,glossary_term,Personal Data Protection,Information on whether an individual is single or married or divorced or widowed.,PDP,Personal Data Protection >> Personal Data,,,,,,,,Legal Marital/Civil Status.,,
