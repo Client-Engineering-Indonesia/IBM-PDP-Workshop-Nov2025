@@ -1,4 +1,26 @@
-## 03 - Curate and enrich data assets
+## 03 - Create Projects and Cataloging
+
+## Create Catalog
+
+1. Catalohg is the place as your published assets. Go to hamburger menu, click  All Catalog
+
+ <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/3667d2b4-2e7b-488d-b9d9-515bca2616af" />
+
+2. Create New Catalog
+ <img width="1512" height="798" alt="image" src="https://github.com/user-attachments/assets/2ae3ab09-47eb-4dc9-a566-37360114ea55" />
+
+3. Fill in the Catalog Name, check the Enforcement Rules, and toggle on ‘Allow reporting on asset metadata.’ After that, click Create.
+ <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/a358383c-9c7d-4c27-816e-e868a8d11d1d" />
+
+4. There are still no assets because we haven’t published any assets yet.”
+ <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/4647ed27-f7fd-4661-884e-8620e521e803" />
+ <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/1e922c57-8872-4c7e-9d89-819c5b798e82" />
+
+
+## Create Project
+
+
+
 
 ### Adjust metadata enrichment settings
 
