@@ -1,4 +1,4 @@
-## 04 - Create Metadata, Data Enrichment, Profiling Data
+## 05 - Create Metadata, Data Enrichment, Profiling Data
 
 ### Perform metadata enrichment
 
@@ -65,26 +65,25 @@
 
 ### Review metadata enrichment
 
-1. After the process completed go to Columns tab -> click Filter icon <img width="27" height="26" alt="image" src="https://github.com/user-attachments/assets/35a3576a-8345-4e58-ae81-2cee648f42ca" /> -> expand Classifications section -> select personal data -> click Apply button -> you will find columns that have been identified as Personal Data
+1. Data quality score for Employee Table
+   <img width="1512" height="752" alt="image" src="https://github.com/user-attachments/assets/66bba18e-5f11-485c-aeac-e22cc6b7d22e" />
 
-<img width="1399" height="778" alt="image" src="https://github.com/user-attachments/assets/e54195d9-7e47-43a1-b819-c2aba4be95c4" />
+2. Data quality scores for each column, paired with classifications and business terms
+   <img width="1512" height="792" alt="image" src="https://github.com/user-attachments/assets/e2483803-73c2-4c68-81bc-1828c6592c1c" />
 
-2. Hover your mouse to GENDER column -> click 3 dots icon <img width="31" height="30" alt="image" src="https://github.com/user-attachments/assets/e49ca703-caa5-4c9c-bed0-c8c73dd889f7" /> -> select View data profile -> you will see the distribution of gender in the data
+3. Scroll down to the Gender column. It can also suggest business terms -> click the suggestion and assign it.
+   <img width="1512" height="750" alt="image" src="https://github.com/user-attachments/assets/bde81ca6-7382-4098-8bbf-d025da7c4ca9" />
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/1307ca5c-d4d6-4779-95c3-b28d2c1e335b" />
+   <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/d96a6f1a-8779-4139-9f1e-dd4fc1bb9ea5" />
 
-<img width="1593" height="915" alt="image" src="https://github.com/user-attachments/assets/e088f646-b154-41f7-9908-53deed2905ef" />
+4. We can also access the data statistics by scrolling to the left.
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/59255f28-029d-4049-ae4b-ca7c7fd7d05b" />
+   <img width="1512" height="793" alt="image" src="https://github.com/user-attachments/assets/2073836b-3b03-4de0-aa67-62240150824c" />
 
-3. Select all columns -> click More -> select Mark as reviewed
-
-<img width="1401" height="884" alt="image" src="https://github.com/user-attachments/assets/be1907a7-d347-427b-93ce-55ad957da178" />
-
-4. Go to Assets tab -> hover your mouse to CUSTOMER table -> click 3 dots icon <img width="31" height="30" alt="image" src="https://github.com/user-attachments/assets/e49ca703-caa5-4c9c-bed0-c8c73dd889f7" /> -> select View data quality -> you will find result of data quality assessment for CUSTOMER table
-
-<img width="1591" height="905" alt="image" src="https://github.com/user-attachments/assets/6a6a4ed4-90d1-4dee-9484-6ebe27bdc46e" />
-
-5. From the analysis from step 2, we know that all personal data are identified in CUSTOMER and CUSTOMER_OFFERS. Based on this information you should assign those tables as "Personal Data" classifications -> click View Mode link inline with CUSTOMER table -> click Governance tab in right section -> click Assign classifications icon <img width="30" height="26" alt="image" src="https://github.com/user-attachments/assets/52923f18-b2e6-4fca-8fa8-daf17ad53b8b" /> -> select Personal Data -> redo the activity to CUSTOMER_OFFERS table -> you can see the image below for reference:
-
-<img width="1727" height="633" alt="image" src="https://github.com/user-attachments/assets/56616992-0a5e-4578-9528-2cb380565e52" />
+5. Select all columns -> click More -> select Mark as reviewed
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/d4cbe4c5-b3cb-4c7b-81cb-9d32d449f441" />
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/479e48a1-2d25-4acf-8524-3f4c3cd9b87d" />
 
 6. Select all tables -> click More -> select Mark as reviewed
-
-<img width="1396" height="574" alt="image" src="https://github.com/user-attachments/assets/9245d2a2-c1d3-40bd-a722-ba9c46968c4a" />
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/5fa8315f-89bd-4bfb-a4a1-071b720db8f1" />
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/2da916da-5be2-4a57-98c4-20da504f42e0" />
