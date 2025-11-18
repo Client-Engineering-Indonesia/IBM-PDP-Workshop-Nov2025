@@ -76,6 +76,8 @@
 
  <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/a0f5cc0a-4d03-4bde-8ed5-80865fc6a435" />
 
+ <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/cb9a16d2-3397-4da6-9eb4-f8588dbafb37" />
+
 
 7. If you go back to Business terms page, you will see that all business terms are already published
 
