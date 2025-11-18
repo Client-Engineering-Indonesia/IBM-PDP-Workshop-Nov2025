@@ -1,33 +1,48 @@
 ## 01 - Create classification, category, and business terms
 
-### Create classification
-
-1. Click hamburger icon in top-left side of the screen -> click Governance -> click Classifications
-
-<img width="1728" height="578" alt="image" src="https://github.com/user-attachments/assets/3f264ebd-d7d9-4bc6-a1ee-6556092068d7" />
-
-2. Click Add classification button -> set Name to "Personal Data" -> set Primary category to "[uncategorized]" -> click Save as draft button
-
-<img width="624" height="902" alt="image" src="https://github.com/user-attachments/assets/f92e9f16-321f-471f-b97e-ceeaa0b3d179" />
-
-3. Click Publish button
-
-<img width="1726" height="712" alt="image" src="https://github.com/user-attachments/assets/d278a2df-3cd8-4801-8bf3-1429a7aee9c3" />
-
-
 ### Create category
 
 1. Click hamburger icon in top-left side of the screen -> click Governance -> click Categories -> click Add category -> select New category
 
-<img width="1728" height="582" alt="image" src="https://github.com/user-attachments/assets/142880c4-84be-4abf-94e2-3abddee3a853" />
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/771c6752-4e7a-4478-8c8c-90d763033019" />
 
-2. Name the category as "PDP Category"
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/58b9f0f4-1703-4d1f-ad7a-e55a94dd180e" />
 
-<img width="620" height="901" alt="image" src="https://github.com/user-attachments/assets/9b541ab3-a328-48a6-94eb-7ac1fc4a9631" />
+2. Name the category as "Personal Data Protection"
+
+<img width="1512" height="798" alt="image" src="https://github.com/user-attachments/assets/d8a9e9d3-39bf-47e1-b195-9b44a88f0aae" />
 
 3. Check if your view is as same as below
 
-<img width="1728" height="924" alt="image" src="https://github.com/user-attachments/assets/fe939df7-31dc-43e5-9509-9c80741b04e6" />
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/55202692-5368-4ffd-971e-0406328c454b" />
+
+
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/c15201f2-cae9-4bd0-83ba-f3d1ba7ad445" />
+
+### Create classification
+
+1. Click hamburger icon in top-left side of the screen -> click Governance -> click Classifications
+
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/216bf6b8-f7ac-4399-9348-9cdff5e0ef34" />
+
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/4a6efbbf-a028-440c-8266-d7acd90a8e8f" />
+
+2. Click Add classification button -> set Name to "Personal Data" -> set Primary category to "Personal Data Protection" -> click Save as draft button
+
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/9d59a2fe-4864-43b7-ae7e-9476125315bc" />
+
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/4e58a6d6-5331-430c-9005-652035120623" />
+
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/5ce56018-3eb2-44b3-a2b5-4f5fe200a660" />
+
+
+3. Click Publish button
+
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/ab1b94a6-9c17-44dc-9217-8cbc5438a5bf" />
+
+<img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/aa82ec5d-7b04-453d-b17e-c8681a0889ae" />
+
+<img width="1512" height="798" alt="image" src="https://github.com/user-attachments/assets/ba649f1f-4ad0-4aa1-bd7e-ac7480be0a96" />
 
 ### Create business terms
 
@@ -36,7 +51,8 @@
 
 2. Click hamburger icon -> click Governance -> click Business terms -> click Add business terms button -> select Import from file
 
-<img width="1728" height="738" alt="image" src="https://github.com/user-attachments/assets/80350ab7-626d-43af-82d8-cbefa678e3d8" />
+<img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/19d649fa-7942-46f0-bbdd-ba9e100a76e0" />
+
 
 3. Choose business term you have downloaded from step 1 -> click Next button
 
