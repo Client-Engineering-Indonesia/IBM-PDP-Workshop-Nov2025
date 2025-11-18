@@ -87,3 +87,5 @@
 6. Select all tables -> click More -> select Mark as reviewed
    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/5fa8315f-89bd-4bfb-a4a1-071b720db8f1" />
    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/2da916da-5be2-4a57-98c4-20da504f42e0" />
+
+In this metadata enrichment view, data stewards can check data quality, applied business terms, and applied classifications, as well as review any data quality remarks.
