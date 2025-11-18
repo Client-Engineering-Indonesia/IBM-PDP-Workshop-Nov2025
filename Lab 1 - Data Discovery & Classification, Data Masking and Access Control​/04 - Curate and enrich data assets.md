@@ -55,6 +55,9 @@
 9. Wait until the process completed as below:
    <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/a56eabd1-5292-4dc0-a162-2bc5598dfa32" />
 
+10. Go back to Projects, this is asset that we currently done: 
+    <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/459d6ab5-80aa-43a6-991e-6f9fd8432c8f" />
+
 ### Perform metadata enrichment
 
 1. Go back to your project -> click New asset button -> type "enrich" into search field -> select Enrich data assets with metadata
