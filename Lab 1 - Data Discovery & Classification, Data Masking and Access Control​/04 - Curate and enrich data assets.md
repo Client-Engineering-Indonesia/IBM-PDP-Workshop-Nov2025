@@ -53,7 +53,7 @@
    <img width="1512" height="792" alt="image" src="https://github.com/user-attachments/assets/053f64c4-c3a9-44de-8e01-c28693a05764" />
 
 9. Wait until the process completed as below:
-   
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/a56eabd1-5292-4dc0-a162-2bc5598dfa32" />
 
 ### Perform metadata enrichment
 
