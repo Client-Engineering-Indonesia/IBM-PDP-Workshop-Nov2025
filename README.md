@@ -32,7 +32,7 @@ By the end of this workshop, participants will not only have a stronger understa
 
 ## Agenda
 
-<img width="1170" height="623" alt="image" src="https://github.com/user-attachments/assets/ad89c463-a093-44cd-a289-65d099b9af12" />
+<img width="1054" height="584" alt="image" src="https://github.com/user-attachments/assets/61d9f1c2-8f3d-4a8f-bb7a-70c613ccc34b" />
 
 <i>
 Please note that the agenda listed above is for reference only and may not reflect the actual workshop time or duration.
