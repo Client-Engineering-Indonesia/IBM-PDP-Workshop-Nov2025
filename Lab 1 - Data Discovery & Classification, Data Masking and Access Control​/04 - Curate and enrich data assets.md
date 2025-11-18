@@ -1,120 +1,59 @@
-## 03 - Create Projects and Cataloging
-
-## Create Catalog
-
-1. Catalog is the place as your published assets. Go to hamburger menu, click  All Catalog
-   <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/3667d2b4-2e7b-488d-b9d9-515bca2616af" />
-
-2. Create New Catalog
-   <img width="1512" height="798" alt="image" src="https://github.com/user-attachments/assets/2ae3ab09-47eb-4dc9-a566-37360114ea55" />
-
-3. Fill in the Catalog Name, check the Enforcement Rules, and toggle on ‘Allow reporting on asset metadata.’ After that, click Create.
-   <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/a358383c-9c7d-4c27-816e-e868a8d11d1d" />
-
-4. There are still no assets because we haven’t published any assets yet.”
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/4647ed27-f7fd-4661-884e-8620e521e803" />
-   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/1e922c57-8872-4c7e-9d89-819c5b798e82" />
-
-## Create Project
-
-1. Project is the place as your working place. Go to hamburger menu, click All Projects
-   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/d67e999e-8b18-4b22-8ee2-123422085cff" />
-
-2. Click New Project
-   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/f63e7add-d448-4b65-b1c6-8b28bf210a61" />
- 
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/4264b375-80cb-4c43-9721-53564f4f4964" />
-
-4. The Projects section is still empty. Click Assets to add a connection, import metadata, and run enrichment
-   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/2a7230ec-23fe-40f0-9ffd-95fb5a19db2c" />
-   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/7cea676f-aa09-4152-a89e-dc6cb8ce962b" />
-
-### Create Connection
-1. Click create connection
-   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/178672eb-7748-44c1-a761-5ee4731f2b16" />
-   <img width="1418" height="692" alt="image" src="https://github.com/user-attachments/assets/35304120-0343-4cc4-9435-ebbbf6842edb" />
-
-2. In this workshop, we are going to use DB2 database connection
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/0029f59f-48d6-458d-a26f-67b93599ec0e" />
-
-   ```
-   Name: db2_connection
-   Database: bludb
-   Hostname: 2f3279a5-73d1-4859-88f0-a6c3e6b4b907.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud
-   Port: 30756
-   Username: ((Given in Email))
-   Password: ((Given in Email))
-   ```
-
-3. Check the SSL Connection, Test the connection after all the credentials are entered.
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/15444cd2-9e18-4055-9955-b5f4d8454247" />
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/3004c900-8662-4a22-8650-5f83d054c0c5" />
-
-4. Connection already in the Projects
-   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/678d80e1-a074-4449-9692-9ec1e7afe771" />
-
+## 03 - Create Metadata, Data Enrichment, Profiling Data
 
 ### Adjust metadata enrichment settings
 
 1. Go to project that you have created in lab 0 -> click Manage tab -> click Metadata enrichment
-
-<img width="1728" height="952" alt="image" src="https://github.com/user-attachments/assets/193c6d01-b966-4f0b-81b1-2c132f9dbf6a" />
+   <img width="1728" height="952" alt="image" src="https://github.com/user-attachments/assets/193c6d01-b966-4f0b-81b1-2c132f9dbf6a" />
 
 2. Adjust the settings as below:
+   
+   ```
+   Categories: PDP Category
+   Assignment threshold (%): 75
+   Suggestion threshold (%): 25
+   Assignment threshold (%): 90
+   Suggestion threshold (%): 85
+   Term assignment methods to use (select at least one): select Machine Learning and Name Matching
+   Assign classifications automatically: select "When a related term is automatically assigned"
+   ```
 
-```
-Categories: PDP Category
-Assignment threshold (%): 75
-Suggestion threshold (%): 25
-Assignment threshold (%): 90
-Suggestion threshold (%): 85
-Term assignment methods to use (select at least one): select Machine Learning and Name Matching
-Assign classifications automatically: select "When a related term is automatically assigned"
-```
+4. Ensure your view is same as below:
 
-3. Ensure your view is same as below:
+   <img width="1460" height="761" alt="image" src="https://github.com/user-attachments/assets/e7f9c7c3-992d-41eb-8787-ff4aff2d144c" />
 
-<img width="1460" height="761" alt="image" src="https://github.com/user-attachments/assets/e7f9c7c3-992d-41eb-8787-ff4aff2d144c" />
-
-<img width="1449" height="681" alt="image" src="https://github.com/user-attachments/assets/d33900ee-aecc-4b3e-997d-f08d698279c6" />
+   <img width="1449" height="681" alt="image" src="https://github.com/user-attachments/assets/d33900ee-aecc-4b3e-997d-f08d698279c6" />
 
 ### Perform metadata import
 
 1. Go to Assets tab -> click New asset button -> type "import" into search field -> select Import metadata for data assets
 
-<img width="1590" height="521" alt="image" src="https://github.com/user-attachments/assets/74c4c6a1-ede1-4b80-9c72-67ffcbc47bd1" />
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/46ffd128-2125-44f0-86d1-bf736ae4ae80" />
 
-2. Set Name to "Db2 Import" -> click Next button
+2. Click Discover
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/177e7838-c1f0-4b66-a324-66c356d24b6c" />
+   
+3. Set Name to "import db2" -> click Next button
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/846fffb4-61af-4215-aaff-9f2a50fb63fa" />
 
-<img width="1448" height="807" alt="image" src="https://github.com/user-attachments/assets/c85064b3-1007-4da1-adb2-9fecd6f5d816" />
+4. Select "This Project" as target -> click Next button
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/a7fca619-f891-4ade-8186-506c94f8744d" />
 
-3. Select Import asset metadata -> click Next button
+5. Select Connection that already created before
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/1a990ff0-8c6c-431a-9ea3-41ba7ece7a4a" />
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/c05466b5-0754-4811-929a-e48d6d8e5923" />
 
-<img width="1356" height="793" alt="image" src="https://github.com/user-attachments/assets/2c8fcc22-1cca-403c-bd82-111c3b401509" />
+6. Preview the Connection -> click Next button
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/82017771-3257-49f1-bdd1-1feb3dd73372" />
 
-4. Click Select button next to Connection label -> select pdp-db2 connection -> click Select button next to Scopes label -> choose Select assets -> select all of available assets (CUSTOMER, CUSTOMER_AcTIVITY, CUSTOMER_OFFERS) -> click Next button
+7. We can also schedule the job, but for this workshop choose Run Job After Creation -> Next
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/50a7d147-22fd-4d36-afad-f65738025b7f" />
 
-<img width="1493" height="834" alt="image" src="https://github.com/user-attachments/assets/d0f657e4-3330-4dc2-9ec3-bb9f285c2851" />
-
-5. Ensure your view is same as below -> click Next button
-
-<img width="1613" height="881" alt="image" src="https://github.com/user-attachments/assets/29aaf7f5-779a-44ec-a9a6-620fb3d5fe07" />
-
-6. Leave the settings as default -> click Next button
-
-<img width="1614" height="881" alt="image" src="https://github.com/user-attachments/assets/7b0c1b57-d08a-4ccd-bcc9-6317e88b9678" />
-
-7. Leave the settings as default -> click Next button
-
-<img width="1621" height="883" alt="image" src="https://github.com/user-attachments/assets/cbd84642-7be4-4566-ac41-1358aff1d95a" />
-
-8. Review the setting -> click Create button
-
-<img width="1622" height="879" alt="image" src="https://github.com/user-attachments/assets/f9bc2d68-735e-45ca-a603-113e55914920" />
+8. Review the metadata import
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/47729f27-6b01-4d53-9208-b01c21f6a21a" />
+   <img width="1512" height="792" alt="image" src="https://github.com/user-attachments/assets/053f64c4-c3a9-44de-8e01-c28693a05764" />
 
 9. Wait until the process completed as below:
-
-<img width="1728" height="660" alt="image" src="https://github.com/user-attachments/assets/d6390df1-9be3-46c3-8809-fcec138612a1" />
+   
 
 ### Perform metadata enrichment
 
