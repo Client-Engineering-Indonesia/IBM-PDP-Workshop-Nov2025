@@ -40,20 +40,15 @@
    ```
    Name: db2_connection
    Database: bludb
-   Hostname: 98538591-7217-4024-b027-8baa776ffad1.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud
-   Port: 30875
+   Hostname: 2f3279a5-73d1-4859-88f0-a6c3e6b4b907.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud
+   Port: 30756
    Username: ((Given in Email))
    Password: ((Given in Email))
    ```
 
-3. Test the connection after all the credentials are entered.
+3. Check the SSL Connection, Test the connection after all the credentials are entered.
    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/15444cd2-9e18-4055-9955-b5f4d8454247" />
-
-5. asd
-6. asd
-7. asd
-8. asd
-9. 
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/3004c900-8662-4a22-8650-5f83d054c0c5" />
 
 ### Adjust metadata enrichment settings
 
