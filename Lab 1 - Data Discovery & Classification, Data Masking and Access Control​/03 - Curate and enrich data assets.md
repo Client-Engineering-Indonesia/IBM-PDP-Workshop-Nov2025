@@ -50,6 +50,10 @@
    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/15444cd2-9e18-4055-9955-b5f4d8454247" />
    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/3004c900-8662-4a22-8650-5f83d054c0c5" />
 
+4. Connection already in the Projects
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/678d80e1-a074-4449-9692-9ec1e7afe771" />
+
+
 ### Adjust metadata enrichment settings
 
 1. Go to project that you have created in lab 0 -> click Manage tab -> click Metadata enrichment
