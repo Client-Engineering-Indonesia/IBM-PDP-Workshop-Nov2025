@@ -1,4 +1,50 @@
-## 04 - Manage data catalog
+## 06 - Manage data catalog
+
+### Admin User 
+1. Push the data assets into catalog 
+  <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/a5ab6b4e-3f81-4abd-a7a9-a49408f608ef" />
+2. Push the data assets into catalog 
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/81e1c8ed-d756-45b5-93f2-dc7f1e8c2dad" />
+3. asd
+   <img width="1512" height="793" alt="image" src="https://github.com/user-attachments/assets/cdaad216-811b-4dc7-8320-0008a376b150" />
+4. asd
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/fb809ea9-fe94-4a1b-9395-37515719c16e" />
+5. asd
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/af77ddf2-abae-4828-903e-d7a357b58407" />
+6. asd
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/70ca7a2b-d8cd-473f-ad76-3110973b3365" />
+7. asd
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/d4eb01eb-2ca2-48dd-99a1-b4456a02ed6a" />
+
+8. asd
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/53f6e8d8-6037-4352-9900-887104aabf1b" />
+
+9. asd
+    <img width="1512" height="797" alt="image" src="https://github.com/user-attachments/assets/1bb01940-eb84-4c2e-b902-94bf80c4ee52" />
+
+10. asd
+    <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/cfc14a84-49d7-40de-9aae-985f5f258055" />
+
+
+### Business User 
+11. ```
+    username: business.user
+    password: business.user
+    ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. Click hamburger icon -> click Governance -> click Catalogs -> click All catalogs -> click Create new catalog button
 
