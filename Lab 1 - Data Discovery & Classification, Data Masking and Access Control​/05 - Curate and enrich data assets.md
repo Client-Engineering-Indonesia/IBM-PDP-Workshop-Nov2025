@@ -4,15 +4,40 @@
 
 1. Go back to your project -> click New asset button -> type "enrich" into search field -> select Enrich data assets with metadata
 
-<img width="1592" height="552" alt="image" src="https://github.com/user-attachments/assets/aaa4993e-00c5-4282-a1da-382d99b2c4a7" />
+   <img width="1512" height="796" alt="image" src="https://github.com/user-attachments/assets/eb37f4ba-93d5-41e4-9032-ecdc11ce104b" />
 
 2. Set Name to "Db2 Metadata Enrichment for PDP" -> click Next button
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/a442d432-1648-405d-991e-feee174748bb" />
 
-<img width="1627" height="882" alt="image" src="https://github.com/user-attachments/assets/b0d30ac9-cf99-4ea7-9aa1-809798d33103" />
+3. Click Select data from project button
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/c6e8b02d-26e9-469b-97fd-2f02deb20c56" />
 
-3. Click Select data from project button <img width="243" height="47" alt="image" src="https://github.com/user-attachments/assets/24f23136-934d-469f-aa48-d099c76b9d56" /> -> Select Metadata import -> select db2 metadata import -> select all available metadata (CUSTOMER, CUSTOMER_ACTIVITY, CUSTOMER_OFFERS)
+4. Click Metadata import -> import db2 -> click select -> click Next
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/72eab78c-be3b-4cfd-85f2-7cbb77266ad9" />
+   
+   <img width="1510" height="793" alt="image" src="https://github.com/user-attachments/assets/8a6c1b30-00c7-45da-a861-1527c1f290a5" />
 
-<img width="1547" height="841" alt="image" src="https://github.com/user-attachments/assets/20d77818-1fd9-44db-8626-3ecf572adf42" />
+5. Select Profile Data > Select Assign Terms and Classifications > Select Run Basic Quality Analysis -> Click Next
+   <img width="1510" height="795" alt="image" src="https://github.com/user-attachments/assets/25e258d9-bf09-4dbe-a37b-74f5086ef62b" />
+
+6. Select Schedule, for this workshop click Run after job scheduler -> click Next
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/6de2925e-066b-4914-a76d-019d9f6096fa" />
+
+7. Review the process -> click Create
+   <img width="1512" height="794" alt="image" src="https://github.com/user-attachments/assets/f3ff00e3-57df-4bbc-97f4-193023cb58fd" />
+
+8. Review the enrichment results
+   <img width="1512" height="795" alt="image" src="https://github.com/user-attachments/assets/b0fc4504-dca2-44a8-b80e-9e6f087d53f3" />
+
+
+
+### Enrichment results
+1. 
+
+
+
+
+
 
 4. Click Next button
 
